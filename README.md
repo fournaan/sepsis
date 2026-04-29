@@ -8,7 +8,7 @@ A neon-styled Snake game built with React Native + Expo. Play instantly on iOS v
 2. Clone this repo and install deps:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/snake-neon.git
+git clone https://github.com/fournaan/sepsis.git
 cd snake-neon
 npm install
 npx expo start
