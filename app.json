@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Snake Neon",
+    "slug": "snake-neon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#070710",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#070710"
+      }
+    }
+  }
+}
